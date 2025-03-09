@@ -1,4 +1,4 @@
-FROM FROM docker.io/simonwmatthews/pydew:v2.18
+FROM docker.io/simonwmatthews/pydew:v2.18
 COPY Week5/* ${HOME}/Week5/
 COPY Week6/* ${HOME}/Week6/
 COPY Week9/* ${HOME}/Week9/
